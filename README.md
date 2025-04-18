@@ -1,8 +1,7 @@
-# Gemini AI Android Integration 🤖
+# 🤖 Gemini AI Android Integration
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/google/generative-ai-android/main/branding/logo.png" alt="Gemini AI Logo" width="250px">
-  <br><br>
+  <h2>🧠 Intelligent Chat Integration for Android</h2>
   <p>A lightweight Android library that enables you to quickly integrate Google's Gemini AI into your Android applications using Kotlin and Jetpack Compose.</p>
   
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -19,11 +18,6 @@
 - 🧩 Proper state management with loading and error states
 - 📱 Easy-to-follow code structure
 - 📦 Minimal dependencies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SHRAVANBISEN/GeminiAI/main/preview.gif" alt="App Demo" width="300px">
-</div>
-<!-- Note: You'll need to add a preview.gif file to your repository for this to display -->
 
 ## 📋 Prerequisites
 
